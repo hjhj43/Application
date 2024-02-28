@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="about">어플리케이션 정보</string>
+    <string name="about_message">
+        이 앱은 대외활동을 홍보할 수 있는 앱입니다. 홍보는 물론 직접 참여까지 할 수 있어 매우 유용합니다. \n\n
+        앱 개발자: 노희진 \n
+        개발자 이메일: wsy0226@naver.com \n
+        문제가 발생할 경우 개발자에게 연락바랍니다.
+    </string>
+    <string name="str_ok">확인</string>
+</resources>
